@@ -1,7 +1,7 @@
 ### 전성호입니다
 
 **경희대학교 전자공학과 WIN LAB** 학부 연구생입니다.  
-주로 **UAV 통신**과 **강화학습(DRL)**을 결합한 네트워크 최적화를 연구하고 있습니다.
+주로 **UAV-Assisted Video Delivery**와 **강화학습(DRL)**을 결합한 네트워크 최적화를 연구하고 있습니다.
 
 - 🔭 I’m currently working on **UAV Assisted-RSU & Live Streaming Optimization**
 - 🌱 I’m currently learning **Deep Reinforcement Learning (Lyapunov Opt.)**
